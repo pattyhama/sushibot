@@ -1,0 +1,5 @@
+cron:
+- description: check
+  timezone: Asia/Tokyo
+  url: /checknotification
+  schedule: every 1 hours
